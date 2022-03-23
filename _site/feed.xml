@@ -1,1 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://172.17.0.2:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://172.17.0.2:4000/" rel="alternate" type="text/html" /><updated>2022-03-23T12:51:00-05:00</updated><id>http://172.17.0.2:4000/feed.xml</id><title type="html">What to think</title><subtitle>A blog to help you know WHAT TO THINK when you are bored</subtitle><entry><title type="html">Whoami??</title><link href="http://172.17.0.2:4000/general/2022/03/22/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Whoami??" /><published>2022-03-22T11:47:16-05:00</published><updated>2022-03-22T11:47:16-05:00</updated><id>http://172.17.0.2:4000/general/2022/03/22/welcome-to-jekyll</id><content type="html" xml:base="http://172.17.0.2:4000/general/2022/03/22/welcome-to-jekyll.html"><![CDATA[<p><em>A work in progress</em></p>]]></content><author><name></name></author><category term="General" /><summary type="html"><![CDATA[A work in progress]]></summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://172.17.0.2:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://172.17.0.2:4000/" rel="alternate" type="text/html" /><updated>2022-03-23T13:59:18-05:00</updated><id>http://172.17.0.2:4000/feed.xml</id><title type="html">What to think</title><subtitle>A blog to help you know WHAT TO THINK when you are bored</subtitle><entry><title type="html">Whoami??</title><link href="http://172.17.0.2:4000/general/2022/03/22/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Whoami??" /><published>2022-03-22T11:47:16-05:00</published><updated>2022-03-22T11:47:16-05:00</updated><id>http://172.17.0.2:4000/general/2022/03/22/welcome-to-jekyll</id><content type="html" xml:base="http://172.17.0.2:4000/general/2022/03/22/welcome-to-jekyll.html"><![CDATA[<p>A poorly written pseudocode that describes Quimzy’s day.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>function think(topics) is
+  topic = a random topic from topics
+  idea = a random idea from that topic 
+  return idea
+
+function brain() is
+  topics = [physics, math, computer_science]  
+  idea = think(topics)
+  if idea.type() = theory is
+    wonder(idea) //too lazy to write a function for this right now
+  else
+    create(idea)
+
+function quimzy() is
+  tasks = []
+  while len(tasks) &gt; 3 //limit of tasks changes according to energy
+    brain()
+    add 1 to tasks
+
+quimzy()
+</code></pre></div></div>
+<p>I found myself thinking about a lot of things, so why not tell some of them to the world.</p>
+
+<p>Some would say that i am the founder of <a href="https://github.com/Quirk-io/">Quirk.io</a></p>
+
+<p>I am also a noob scientist, interested in Math, AI &amp; the future.</p>
+
+<p><strong>This blog is for winners only. Losers need to pay 100$/month to read it.</strong></p>]]></content><author><name></name></author><category term="General" /><summary type="html"><![CDATA[A poorly written pseudocode that describes Quimzy’s day.]]></summary></entry></feed>
