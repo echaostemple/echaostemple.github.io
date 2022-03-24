@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Whoami??"
-date:   2022-03-22 11:47:16 -0500
+date:   2022-03-22 11:47:16 +0300
 categories: General
 ---
 A poorly written pseudocode that describes Quimzy's day.

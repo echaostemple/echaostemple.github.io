@@ -1,5 +1,5 @@
-FROM jekyll/jekyll
+FROM jekyll/builder
 VOLUME . /srv/jekyll
 EXPOSE 4000
-RUN bundle install
-CMD bundle exec jekyll serve
+CMD bundle install
+CMD jekyll serve --host 172.17.0.2
