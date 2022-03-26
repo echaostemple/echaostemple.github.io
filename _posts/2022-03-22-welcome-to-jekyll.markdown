@@ -34,4 +34,4 @@ Some would say that i am the founder of <a href="https://github.com/Quirk-io/">Q
 
 I am also a noob scientist, interested in Math, AI & the future.
 
-**This blog is for winners only. Losers need to pay 100$/month to read it.**
+**This blog is for winners only. Losers need to pay 99.99$/month to read it.**
