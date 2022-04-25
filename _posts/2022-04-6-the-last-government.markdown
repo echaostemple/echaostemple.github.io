@@ -11,4 +11,5 @@ I don't believe in conspiracy theories, at least 98% of them. And, the ones that
 
 ***But, where are the heroes?***
 
-It may seem fine at first glance, but if you focus you can notice that it's a disaster.
+It may seem fine at first glance, but if you focus you can notice that it's a disaster. Centralizing all the world facilities and controlling all of the population thoughts, actions, resources under the name of "Ending poverty and suffer" is just the beginning of new dark ages but we can't escape it this time.
+
