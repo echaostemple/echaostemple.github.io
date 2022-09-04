@@ -28,9 +28,10 @@ function quimzy() is
 
 quimzy()
 ````
-I found myself thinking about a lot of things, so why not tell some of them to the world.
+I've found myself thinking about a lot of things, so why not tell some of them to the world.
 
-Some would say that i am the founder of <a href="https://github.com/Quirk-io/">Quirk.io</a>
+You can find the stuff i've built on <a href="https://github.com/Quimzy"> my Github </a>
+
 
 I am also a noob scientist, interested in Math, AI & the future.
 
