@@ -27,6 +27,9 @@ And now, that i've grown more and my knowledge has expanded drastically over the
 <br>
 <center> <b> The Theory of Everything </b> </center>
 <br>
+
+*"Politics is downstream of culture. Culture is downstream of religion. Religion is downstream of technology."*
+
 The Theory of Everything is a theory that explains everything in the universe (and beyond). From before the birth of the universe to the end of it and beyond.
 
 This theory is the answer to all of our existential questions. But, no one has found the theory yet. In this blog, i am not going to try to find the theory but i will try and convince you that this theory is **unfindable**.
@@ -39,8 +42,13 @@ To do this, we have to devide all of the human history to three parts (eras) as 
 
 ***THE THEORY OF EVERYTHING IN THE***
 
-- **The premodern era**
+- **Premodern era**
+In this era, God & supernatural stuff were the dominant answer to every question humans had. Whether it is about the universe, morality, purpose, etc... Supernatural beings were the easiest, holefilling explanations the ordinary human could derive at that time. A time in which critical thinking was given away in exchange for survival. Dangers were all around. There was no time to stop and wonder about stuff that didn't affect your day-to-day life. That could explain why people, back then, thought that the earth was flat or that viruses are just demons.
 
-- **The modern era**
+The idea of a deity started as this God who is responsible for everything (feeding people, taking care of the sick ones, providing the sunlight and the water for the crops to grow, and much more). As time passed and technology evolved, people were less reliant on God, the role of a deity was getting more and more limited. And probably that was when some scholars began to notice that God isn't the best answer to our questions after all. So, they started to view the world in a more natural, material way.
 
-- **The postmodern era**
+The consensus of science evolved, and more people abandoned religion for the development of free speech and thought (a.k.a The Age of Enlightenment)
+
+- **Modern era**
+
+- **Postmodern era**
