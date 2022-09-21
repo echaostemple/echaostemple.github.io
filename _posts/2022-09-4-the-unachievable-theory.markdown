@@ -43,12 +43,23 @@ To do this, we have to devide all of the human history to three parts (eras) as 
 ***THE THEORY OF EVERYTHING IN THE***
 
 - **Premodern era**
-In this era, God & supernatural stuff were the dominant answer to every question humans had. Whether it is about the universe, morality, purpose, etc... Supernatural beings were the easiest, holefilling explanations the ordinary human could derive at that time. A time in which critical thinking was given away in exchange for survival. Dangers were all around. There was no time to stop and wonder about stuff that didn't affect your day-to-day life. That could explain why people, back then, thought that the earth was flat or that viruses are just demons.
+In this era, God & supernatural stuff were the dominant answer to every question that humans had. Whether it is about the universe, morality, purpose, etc... Supernatural beings were the easiest, holefilling explanations the ordinary human could derive at that time. A time in which critical thinking was given away in exchange for survival. Dangers were all around. There was no time to stop and wonder about stuff that didn't affect your day-to-day life. That could explain why people, back then, thought that the earth was flat or that viruses are just demons.
 
 The idea of a deity started as this God who is responsible for everything (feeding people, taking care of the sick ones, providing the sunlight and the water for the crops to grow, and much more). As time passed and technology evolved, people were less reliant on God, the role of a deity was getting more and more limited. And probably that was when some scholars began to notice that God isn't the best answer to our questions after all. So, they started to view the world in a more natural, material way.
 
 The consensus of science evolved, and more people abandoned religion for the development of free speech and thought (a.k.a The Age of Enlightenment)
 
 - **Modern era**
+The modern era is considered by some people to be the most impactful. The world went from living in tents andd tribes, to concrete buildings and structured societies. Technology was developed slowly, but greatly (there's sometimes centuries between inventions). 
+
+And as technology and science advanced, more and more people overthrew the supernatural beliefs in favor of material, proven truths. 
+Nitzche summarized it best when he said: "God is dead. And we've killed him" (Look it up online if you are interested in the full quote). God's roles were getting thinner with every new technological advancement and scientific breakthrough. 
+
+Viruses are microscopic "creatures" called pathogens, not demons. Matter is made of tiny stuff called atoms, not elements (fire, air, water, dirt) brought together by some mystical being. Humans evolved, not created. Light can be created.
+
+On the other hand, the religious groups started to fight to keep god "alive". One of the earliest examples is Galilio and the church. Even people who share the same beliefs began to seperate, each one interpreting different meanings off the same ideas, each one defining God to please their ideas.
+
+
+
 
 - **Postmodern era**
