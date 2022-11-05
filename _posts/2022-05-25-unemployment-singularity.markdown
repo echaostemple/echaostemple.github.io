@@ -15,9 +15,9 @@ If you think that this is far fetched, i'd like to mention that we already have 
 
 <br/>
 
-Few years from now, a 6th grade kid would go to a platform and write a description of a dynamic website that he would like to make, the AI generates the code, hosts it on AWS and returns the link for the website in 2-3 days. It would be having a nice UI/UX, a database, APIs, and a backend.
+Few years from now, a 6th grade kid would go to a platform and write a description of a dynamic website that he would like to make, the AI generates the code, hosts it on AWS and returns the link for the website in less than a day. It would be having a nice UI/UX, a database, APIs, and a backend.
 
-Now let's see how much time it would take the KID to make the website:
+Now let's see how much time it would take the ***kid*** to make the website:
 - Learning basic web stuff: HTML & CSS & JS (3 months)
 - Learning MERN stack (6 months)
 - Learning AWS (1 month)
