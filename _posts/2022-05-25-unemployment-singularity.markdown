@@ -7,9 +7,9 @@ categories: Random Thoughts
 
 When the singularity happens, all of us would be unemployed. And, i literally mean *ALL OF US*. The next 10-15 years are the best years to work in tech and actually contribute something. And, of course that time-span is valid for people who work with AI directly or inderectly (i.e building infrastructure for AI). 
 
-But, for CRUD devs and "software engineers", it's gonna take 5 years (maybe less!) for AI to figure out a way to translate business requirements into code. Once AI is able to do that, most coding channels on Youtube would vanish, it would take few months for small-mid companies to get rid of their developement team, it would take a year or two for big "tech" companies to get rid of most of their developers as well.
+But, for CRUD devs and "software engineers", it's gonna take 5 years (maybe less!) for AI to figure out a way to translate business requirements into code. Once AI is able to do that; most coding channels on Youtube would vanish, it would take few months to a year for small-mid companies to get rid of their developement team. It would take two or three years for big "tech" companies to get rid of most of their developers as well.
 
-If you think that this is far fetched, i'd like to mention that we already have the <a href="https://openai.com/dall-e-2/">basic technology</a> to make this work but it needs some few tweaks. And, once someone finds a way to do it, he's gonna be the most hated person by devs. And, honestly, i don't mind hate if it's for the sake of a better future and better technology. I wanna build an AI that builds me a spaceship so i can travel the universe, if creating an AI coder would help me to do so, i will do it. 
+If you think that this is far fetched, i'd like to mention that we already have the <a href="https://github.com/features/copilot">basic technology</a> to make this work but it needs some few tweaks. And, once someone finds a way to do it, he's gonna be the most hated person by devs. And, honestly, i don't mind hate if it's for the sake of a better future and better technology. I wanna build an AI that builds me a spaceship so i can travel the universe, if creating an AI coder would help me to do so, i will do it. 
 
 ---
 
