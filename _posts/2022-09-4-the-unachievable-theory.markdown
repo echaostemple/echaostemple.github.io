@@ -57,10 +57,13 @@ The modern era is considered by some people to be the most impactful. The world 
 And as technology and science advanced, more and more people overthrew the supernatural beliefs in favor of material, proven truths. 
 Nitzche summarized it best when he said: "God is dead. And we've killed him" (Look it up online if you are interested in the full quote). God's roles were getting thinner with every new technological advancement and scientific breakthrough. 
 
-Viruses are microscopic "creatures" called pathogens, not demons. Matter is made of tiny stuff called atoms, not elements (fire, air, water, dirt) brought together by some mystical being. Humans evolved, not created. Light can be created.
+Viruses are microscopic "creatures" called pathogens, not demons. Matter is made of tiny stuff called atoms, not elements (fire, air, water, dirt) brought together by some mystical being. Humans evolved, not created.
 
-On the other hand, the religious groups started to fight to keep god "alive". One of the earliest examples is Galilio and the church. Even people who share the same beliefs began to seperate. Each one interpreting different meanings off the same scriptures and stories, each one defining God to please their ideas.
+On the other hand, the religious groups started to fight to keep god "alive". One of the earliest examples is Galileo and the church. Even people who share the same beliefs began to seperate. Each one interpreting different meanings off the same scriptures and stories, each one defining God to please their ideas.
+
+All of this contributed to the belief that the universe is natural and that the world should be built on objective truth.
 
 - **Postmodern era**
 
-The postmodern era (a.k.a The information age) is now. 
+The postmodern era is the era of subjectivism, skepticism, indeterminacy, loss of identity, etc... All of these ideas oppose the ideas introduced in the modern era. The world should not be built on objective truth, each individual has their own version of the world. You create your own meaning and values.
+
