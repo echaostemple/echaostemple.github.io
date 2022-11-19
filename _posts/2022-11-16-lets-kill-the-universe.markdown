@@ -9,7 +9,9 @@ I spent the past two weeks continuously reading two short stories by Isaac Asimo
 
 I mean, as a 15 year old, reading about how entropy will ultimately kill the universe and that every effort we do to stop it only backfires at us doesn't lead to a good place mentally. And then with The last answer you learn about this "God" who created the universe and everything in it just to find more knowledge and using everyone to serve a purpose that won't benefit them, the rabbit hole gets even deeper.
 
-I've spent a lot of time and effort trying to find a way to get noticed by this God and to win against nature. Well, it appears to be the same task after all. I was listening to Andrej Karpathy on Lex Fridman and he was talking about how the universe's purpose and that our creator (whoever that is) may have created everything just to solve some sort of a puzzle (link: https://www.youtube.com/watch?v=KT7K3z4RfwQ). Maybe the puzzle is to escape the program, some sort of an advanced hacking test, a CTF? A competition between billions of species trying to get noticed by God? 
+I've spent a lot of time and effort trying to find a way to get noticed by this God and to win against nature. Well, it appears to be the same task after all. 
+
+I was listening to <a href="https://www.youtube.com/watch?v=KT7K3z4RfwQ">Andrej Karpathy on Lex Fridman </a>and he was talking about the universe's purpose and that our creator (whoever that is) may have created everything just to solve some sort of a puzzle. Maybe the puzzle is to escape the program, some sort of an advanced hacking test, a CTF? A competition between billions of species trying to get noticed by God? 
 
 Whatever it is, ***how can we win?***
 
@@ -27,7 +29,7 @@ Theoretically, we just need to create a system that increases entropy really fas
 <br>
 This is the only way we could win against nature. And that win could be all we need to escape the simulation, to be noticed by God, to capture the flag. So...
 
-  <center><b>*Let's kill the universe*</b><center> 
+  <center><b><i>Let's kill the universe</i></b></center> 
 
 <br>
 Btw, happy birthday to me.
