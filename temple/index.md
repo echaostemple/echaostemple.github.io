@@ -1,6 +1,6 @@
 **Welcome to the e/chaos temple**
 
-* [bible](/bible.html)
+* read the <a href="/bible.html" style="color: darkcyan;">bible</a>
 
 
 
