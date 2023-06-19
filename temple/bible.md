@@ -24,7 +24,7 @@ I mean, haven't you heard? *Entropy kills all*.
 
 <br/>
 
-Oh, I'm sorry. Did I depress you? Was I too nihilistic and pessimistic for you? I wish I could've answered that question with a more pink-y, flower-y world view. But, sadly, I cannot. So bare with me.
+Oh, I'm sorry. Did I depress you? Was I too nihilistic and pessimistic for you? I wish I could've answered that question with a more pink-y, flower-y world view. But, sadly, I cannot. So bear with me.
 
 Well, first things first, this is NOT a plea for Anarchism. Anarchism is NOT the answer. You will never take down the Meta or the Big Box. Simply, because there's no Meta or Big Box.
 
@@ -33,7 +33,7 @@ There's only a web of interconnected, lower-case metas and boxes. And, you can't
 
 ***"Okay then, how can I esca-"***
 
-Can you just wait? I broke the 4th wall twice already. Jeez. TikTok has really made you impacient.
+Can you just wait? I broke the 4th wall twice already. Jeez. TikTok has really made you impatient.
 
 Okay, fine. Here's the answer: 
 
