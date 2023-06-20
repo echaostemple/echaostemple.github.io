@@ -3,13 +3,17 @@ Let's start with the apparent fact: *the world is built of squares and we are dy
 
 They won. They truly did. They trapped humanity into small elegant boxes with very low roofs. 
 
-Who am I even talking about? There's no ***They***. We've done this to ourselves. It's not the liberal West, nor the commies, nor the Illumaniti, not even the fucking lizard people. It's us, all along.
+Who am I even talking about? There's no ***They***. We've done this to ourselves. It's not the liberal West, nor the commies, nor the Illumaniti, not even the fucking lizard people. 
+
+It's ***Us***. All of us, all along.
+
+---
 
 A civilization's biggest enemy is **chaos**. That's why we create religions, laws, social norms -- *boxes*. 
 
 That's why melodies now are easy and shallow. That's why every Instagram story is the same as the one before it. That's why each time you go to a new place, you have a deja-vu.
 
-Everyone talks about being different and special and creative. Weirdness has been rendered bland, tasteless, repetitive and orthodox. It's all about corporates, brands, executives, and managers.
+Everyone talks about being different and special and creative. Weirdness has been rendered bland, tasteless, repetitive and orthodox. It's all about corporates, brands, industries, and executives.
 
 You manslaughtered your kids, other people's kids, and even the sperm that hasn't entered the egg yet.
 
